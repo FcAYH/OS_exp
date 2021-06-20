@@ -1,0 +1,1989 @@
+Put 124 product into buffer at 0.
+Take out 124 from the buffer at 0.
+Put 115 product into buffer at 1.
+Take out 115 from the buffer at 1.
+Put 174 product into buffer at 2.
+Take out 174 from the buffer at 2.
+Put 191 product into buffer at 3.
+Put 159 product into buffer at 0.
+Put 149 product into buffer at 1.
+Take out 191 from the buffer at 3.
+Put 97 product into buffer at 2.
+Put 141 product into buffer at 3.
+Take out 159 from the buffer at 0.
+Take out 149 from the buffer at 1.
+Take out 97 from the buffer at 2.
+Put 120 product into buffer at 0.
+Put 115 product into buffer at 1.
+Take out 141 from the buffer at 3.
+Put 154 product into buffer at 2.
+Take out 120 from the buffer at 0.
+Put 125 product into buffer at 3.
+Put 14 product into buffer at 0.
+Take out 115 from the buffer at 1.
+Put 85 product into buffer at 1.
+Take out 154 from the buffer at 2.
+Put 113 product into buffer at 2.
+Take out 125 from the buffer at 3.
+Put 106 product into buffer at 3.
+Take out 14 from the buffer at 0.
+Take out 85 from the buffer at 1.
+Put 16 product into buffer at 0.
+Put 74 product into buffer at 1.
+Take out 113 from the buffer at 2.
+Take out 106 from the buffer at 3.
+Take out 16 from the buffer at 0.
+Put 65 product into buffer at 2.
+Take out 74 from the buffer at 1.
+Put 109 product into buffer at 3.
+Put 132 product into buffer at 0.
+Put 58 product into buffer at 1.
+Take out 65 from the buffer at 2.
+Put 26 product into buffer at 2.
+Take out 109 from the buffer at 3.
+Put 148 product into buffer at 3.
+Take out 132 from the buffer at 0.
+Take out 58 from the buffer at 1.
+Take out 26 from the buffer at 2.
+Put 198 product into buffer at 0.
+Put 187 product into buffer at 1.
+Take out 148 from the buffer at 3.
+Put 20 product into buffer at 2.
+Take out 198 from the buffer at 0.
+Take out 187 from the buffer at 1.
+Put 10 product into buffer at 3.
+Put 69 product into buffer at 0.
+Take out 20 from the buffer at 2.
+Put 101 product into buffer at 1.
+Take out 10 from the buffer at 3.
+Put 62 product into buffer at 2.
+Take out 69 from the buffer at 0.
+Put 1 product into buffer at 3.
+Take out 101 from the buffer at 1.
+Put 73 product into buffer at 0.
+Take out 62 from the buffer at 2.
+Take out 1 from the buffer at 3.
+Put 6 product into buffer at 1.
+Put 119 product into buffer at 2.
+Take out 73 from the buffer at 0.
+Take out 6 from the buffer at 1.
+Put 187 product into buffer at 3.
+Take out 119 from the buffer at 2.
+Take out 187 from the buffer at 3.
+Put 85 product into buffer at 0.
+Take out 85 from the buffer at 0.
+Put 127 product into buffer at 1.
+Put 98 product into buffer at 2.
+Take out 127 from the buffer at 1.
+Put 170 product into buffer at 3.
+Take out 98 from the buffer at 2.
+Put 139 product into buffer at 0.
+Take out 170 from the buffer at 3.
+Put 153 product into buffer at 1.
+Take out 139 from the buffer at 0.
+Put 178 product into buffer at 2.
+Put 90 product into buffer at 3.
+Take out 153 from the buffer at 1.
+Put 101 product into buffer at 0.
+Take out 178 from the buffer at 2.
+Put 169 product into buffer at 1.
+Take out 90 from the buffer at 3.
+Put 102 product into buffer at 2.
+Take out 101 from the buffer at 0.
+Put 1 product into buffer at 3.
+Take out 169 from the buffer at 1.
+Take out 102 from the buffer at 2.
+Put 108 product into buffer at 0.
+Take out 1 from the buffer at 3.
+Put 21 product into buffer at 1.
+Take out 108 from the buffer at 0.
+Put 71 product into buffer at 2.
+Take out 21 from the buffer at 1.
+Take out 71 from the buffer at 2.
+Put 189 product into buffer at 3.
+Take out 189 from the buffer at 3.
+Put 147 product into buffer at 0.
+Take out 147 from the buffer at 0.
+Put 128 product into buffer at 1.
+Take out 128 from the buffer at 1.
+Put 182 product into buffer at 2.
+Put 15 product into buffer at 3.
+Take out 182 from the buffer at 2.
+Take out 15 from the buffer at 3.
+Put 128 product into buffer at 0.
+Put 105 product into buffer at 1.
+Put 83 product into buffer at 2.
+Take out 128 from the buffer at 0.
+Take out 105 from the buffer at 1.
+Take out 83 from the buffer at 2.
+Put 192 product into buffer at 3.
+Put 157 product into buffer at 0.
+Take out 192 from the buffer at 3.
+Put 131 product into buffer at 1.
+Take out 157 from the buffer at 0.
+Take out 131 from the buffer at 1.
+Put 141 product into buffer at 2.
+Take out 141 from the buffer at 2.
+Put 65 product into buffer at 3.
+Take out 65 from the buffer at 3.
+Put 159 product into buffer at 0.
+Take out 159 from the buffer at 0.
+Put 28 product into buffer at 1.
+Take out 28 from the buffer at 1.
+Put 197 product into buffer at 2.
+Take out 197 from the buffer at 2.
+Put 83 product into buffer at 3.
+Take out 83 from the buffer at 3.
+Put 108 product into buffer at 0.
+Put 150 product into buffer at 1.
+Take out 108 from the buffer at 0.
+Take out 150 from the buffer at 1.
+Put 103 product into buffer at 2.
+Take out 103 from the buffer at 2.
+Put 169 product into buffer at 3.
+Take out 169 from the buffer at 3.
+Put 104 product into buffer at 0.
+Take out 104 from the buffer at 0.
+Put 152 product into buffer at 1.
+Put 13 product into buffer at 2.
+Put 147 product into buffer at 3.
+Take out 152 from the buffer at 1.
+Put 111 product into buffer at 0.
+Take out 13 from the buffer at 2.
+Put 164 product into buffer at 1.
+Put 169 product into buffer at 2.
+Take out 147 from the buffer at 3.
+Take out 111 from the buffer at 0.
+Take out 164 from the buffer at 1.
+Take out 169 from the buffer at 2.
+Put 30 product into buffer at 3.
+Put 183 product into buffer at 0.
+Put 91 product into buffer at 1.
+Put 55 product into buffer at 2.
+Take out 30 from the buffer at 3.
+Take out 183 from the buffer at 0.
+Put 169 product into buffer at 3.
+Put 7 product into buffer at 0.
+Take out 91 from the buffer at 1.
+Put 198 product into buffer at 1.
+Take out 55 from the buffer at 2.
+Take out 169 from the buffer at 3.
+Put 90 product into buffer at 2.
+Put 147 product into buffer at 3.
+Take out 7 from the buffer at 0.
+Put 31 product into buffer at 0.
+Take out 198 from the buffer at 1.
+Put 197 product into buffer at 1.
+Take out 90 from the buffer at 2.
+Put 45 product into buffer at 2.
+Take out 147 from the buffer at 3.
+Put 153 product into buffer at 3.
+Take out 31 from the buffer at 0.
+Put 9 product into buffer at 0.
+Take out 197 from the buffer at 1.
+Put 115 product into buffer at 1.
+Take out 45 from the buffer at 2.
+Put 68 product into buffer at 2.
+Take out 153 from the buffer at 3.
+Take out 9 from the buffer at 0.
+Put 25 product into buffer at 3.
+Put 55 product into buffer at 0.
+Take out 115 from the buffer at 1.
+Take out 68 from the buffer at 2.
+Take out 25 from the buffer at 3.
+Put 8 product into buffer at 1.
+Put 153 product into buffer at 2.
+Put 155 product into buffer at 3.
+Take out 55 from the buffer at 0.
+Take out 8 from the buffer at 1.
+Put 56 product into buffer at 0.
+Put 12 product into buffer at 1.
+Take out 153 from the buffer at 2.
+Put 124 product into buffer at 2.
+Take out 155 from the buffer at 3.
+Put 174 product into buffer at 3.
+Take out 56 from the buffer at 0.
+Take out 12 from the buffer at 1.
+Put 107 product into buffer at 0.
+Take out 124 from the buffer at 2.
+Put 85 product into buffer at 1.
+Put 137 product into buffer at 2.
+Take out 174 from the buffer at 3.
+Put 135 product into buffer at 3.
+Take out 107 from the buffer at 0.
+Put 47 product into buffer at 0.
+Take out 85 from the buffer at 1.
+Take out 137 from the buffer at 2.
+Put 178 product into buffer at 1.
+Take out 135 from the buffer at 3.
+Put 25 product into buffer at 2.
+Put 151 product into buffer at 3.
+Take out 47 from the buffer at 0.
+Put 164 product into buffer at 0.
+Take out 178 from the buffer at 1.
+Put 198 product into buffer at 1.
+Take out 25 from the buffer at 2.
+Put 86 product into buffer at 2.
+Take out 151 from the buffer at 3.
+Put 191 product into buffer at 3.
+Take out 164 from the buffer at 0.
+Put 200 product into buffer at 0.
+Take out 198 from the buffer at 1.
+Put 163 product into buffer at 1.
+Take out 86 from the buffer at 2.
+Put 165 product into buffer at 2.
+Take out 191 from the buffer at 3.
+Put 184 product into buffer at 3.
+Take out 200 from the buffer at 0.
+Put 148 product into buffer at 0.
+Take out 163 from the buffer at 1.
+Put 147 product into buffer at 1.
+Take out 165 from the buffer at 2.
+Take out 184 from the buffer at 3.
+Put 151 product into buffer at 2.
+Take out 148 from the buffer at 0.
+Put 179 product into buffer at 3.
+Take out 147 from the buffer at 1.
+Take out 151 from the buffer at 2.
+Put 130 product into buffer at 0.
+Take out 179 from the buffer at 3.
+Put 129 product into buffer at 1.
+Take out 130 from the buffer at 0.
+Put 63 product into buffer at 2.
+Take out 129 from the buffer at 1.
+Put 95 product into buffer at 3.
+Take out 63 from the buffer at 2.
+Put 4 product into buffer at 0.
+Take out 95 from the buffer at 3.
+Put 66 product into buffer at 1.
+Take out 4 from the buffer at 0.
+Put 85 product into buffer at 2.
+Take out 66 from the buffer at 1.
+Take out 85 from the buffer at 2.
+Put 15 product into buffer at 3.
+Take out 15 from the buffer at 3.
+Put 10 product into buffer at 0.
+Take out 10 from the buffer at 0.
+Put 24 product into buffer at 1.
+Take out 24 from the buffer at 1.
+Put 28 product into buffer at 2.
+Take out 28 from the buffer at 2.
+Put 154 product into buffer at 3.
+Put 172 product into buffer at 0.
+Take out 154 from the buffer at 3.
+Put 152 product into buffer at 1.
+Take out 172 from the buffer at 0.
+Take out 152 from the buffer at 1.
+Put 154 product into buffer at 2.
+Put 14 product into buffer at 3.
+Put 36 product into buffer at 0.
+Put 143 product into buffer at 1.
+Take out 154 from the buffer at 2.
+Take out 14 from the buffer at 3.
+Put 105 product into buffer at 2.
+Take out 36 from the buffer at 0.
+Put 119 product into buffer at 3.
+Take out 143 from the buffer at 1.
+Put 65 product into buffer at 0.
+Take out 105 from the buffer at 2.
+Put 193 product into buffer at 1.
+Put 89 product into buffer at 2.
+Take out 119 from the buffer at 3.
+Put 9 product into buffer at 3.
+Take out 65 from the buffer at 0.
+Put 169 product into buffer at 0.
+Take out 193 from the buffer at 1.
+Put 50 product into buffer at 1.
+Take out 89 from the buffer at 2.
+Put 46 product into buffer at 2.
+Take out 9 from the buffer at 3.
+Take out 169 from the buffer at 0.
+Put 129 product into buffer at 3.
+Take out 50 from the buffer at 1.
+Put 36 product into buffer at 0.
+Put 49 product into buffer at 1.
+Take out 46 from the buffer at 2.
+Put 46 product into buffer at 2.
+Take out 129 from the buffer at 3.
+Put 164 product into buffer at 3.
+Take out 36 from the buffer at 0.
+Take out 49 from the buffer at 1.
+Put 94 product into buffer at 0.
+Take out 46 from the buffer at 2.
+Put 79 product into buffer at 1.
+Put 83 product into buffer at 2.
+Take out 164 from the buffer at 3.
+Take out 94 from the buffer at 0.
+Put 49 product into buffer at 3.
+Put 2 product into buffer at 0.
+Take out 79 from the buffer at 1.
+Put 48 product into buffer at 1.
+Take out 83 from the buffer at 2.
+Take out 49 from the buffer at 3.
+Put 93 product into buffer at 2.
+Put 134 product into buffer at 3.
+Take out 2 from the buffer at 0.
+Put 104 product into buffer at 0.
+Take out 48 from the buffer at 1.
+Take out 93 from the buffer at 2.
+Put 163 product into buffer at 1.
+Take out 134 from the buffer at 3.
+Take out 104 from the buffer at 0.
+Put 130 product into buffer at 2.
+Put 157 product into buffer at 3.
+Take out 163 from the buffer at 1.
+Put 156 product into buffer at 0.
+Put 121 product into buffer at 1.
+Take out 130 from the buffer at 2.
+Take out 157 from the buffer at 3.
+Put 137 product into buffer at 2.
+Take out 156 from the buffer at 0.
+Put 16 product into buffer at 3.
+Put 100 product into buffer at 0.
+Take out 121 from the buffer at 1.
+Put 114 product into buffer at 1.
+Take out 137 from the buffer at 2.
+Put 138 product into buffer at 2.
+Take out 16 from the buffer at 3.
+Put 31 product into buffer at 3.
+Take out 100 from the buffer at 0.
+Put 49 product into buffer at 0.
+Take out 114 from the buffer at 1.
+Put 21 product into buffer at 1.
+Take out 138 from the buffer at 2.
+Put 79 product into buffer at 2.
+Take out 31 from the buffer at 3.
+Put 23 product into buffer at 3.
+Take out 49 from the buffer at 0.
+Put 59 product into buffer at 0.
+Take out 21 from the buffer at 1.
+Put 82 product into buffer at 1.
+Take out 79 from the buffer at 2.
+Put 170 product into buffer at 2.
+Take out 23 from the buffer at 3.
+Put 20 product into buffer at 3.
+Take out 59 from the buffer at 0.
+Put 194 product into buffer at 0.
+Take out 82 from the buffer at 1.
+Put 143 product into buffer at 1.
+Take out 170 from the buffer at 2.
+Put 115 product into buffer at 2.
+Take out 20 from the buffer at 3.
+Put 15 product into buffer at 3.
+Take out 194 from the buffer at 0.
+Put 73 product into buffer at 0.
+Take out 143 from the buffer at 1.
+Put 85 product into buffer at 1.
+Take out 115 from the buffer at 2.
+Put 162 product into buffer at 2.
+Take out 15 from the buffer at 3.
+Put 114 product into buffer at 3.
+Take out 73 from the buffer at 0.
+Take out 85 from the buffer at 1.
+Put 21 product into buffer at 0.
+Take out 162 from the buffer at 2.
+Take out 114 from the buffer at 3.
+Take out 21 from the buffer at 0.
+Put 191 product into buffer at 1.
+Take out 191 from the buffer at 1.
+Put 153 product into buffer at 2.
+Put 172 product into buffer at 3.
+Take out 153 from the buffer at 2.
+Take out 172 from the buffer at 3.
+Put 96 product into buffer at 0.
+Take out 96 from the buffer at 0.
+Put 141 product into buffer at 1.
+Take out 141 from the buffer at 1.
+Put 29 product into buffer at 2.
+Put 33 product into buffer at 3.
+Take out 29 from the buffer at 2.
+Take out 33 from the buffer at 3.
+Put 135 product into buffer at 0.
+Put 140 product into buffer at 1.
+Take out 135 from the buffer at 0.
+Put 129 product into buffer at 2.
+Take out 140 from the buffer at 1.
+Take out 129 from the buffer at 2.
+Put 93 product into buffer at 3.
+Put 85 product into buffer at 0.
+Put 171 product into buffer at 1.
+Take out 93 from the buffer at 3.
+Take out 85 from the buffer at 0.
+Put 65 product into buffer at 2.
+Put 32 product into buffer at 3.
+Put 139 product into buffer at 0.
+Take out 171 from the buffer at 1.
+Take out 65 from the buffer at 2.
+Put 114 product into buffer at 1.
+Put 182 product into buffer at 2.
+Take out 32 from the buffer at 3.
+Put 104 product into buffer at 3.
+Take out 139 from the buffer at 0.
+Put 13 product into buffer at 0.
+Take out 114 from the buffer at 1.
+Put 135 product into buffer at 1.
+Take out 182 from the buffer at 2.
+Put 9 product into buffer at 2.
+Take out 104 from the buffer at 3.
+Put 11 product into buffer at 3.
+Take out 13 from the buffer at 0.
+Put 151 product into buffer at 0.
+Take out 135 from the buffer at 1.
+Take out 9 from the buffer at 2.
+Put 90 product into buffer at 1.
+Put 127 product into buffer at 2.
+Take out 11 from the buffer at 3.
+Put 124 product into buffer at 3.
+Take out 151 from the buffer at 0.
+Put 183 product into buffer at 0.
+Take out 90 from the buffer at 1.
+Put 119 product into buffer at 1.
+Take out 127 from the buffer at 2.
+Put 117 product into buffer at 2.
+Take out 124 from the buffer at 3.
+Put 93 product into buffer at 3.
+Take out 183 from the buffer at 0.
+Put 18 product into buffer at 0.
+Take out 119 from the buffer at 1.
+Put 34 product into buffer at 1.
+Take out 117 from the buffer at 2.
+Put 61 product into buffer at 2.
+Take out 93 from the buffer at 3.
+Put 107 product into buffer at 3.
+Take out 18 from the buffer at 0.
+Take out 34 from the buffer at 1.
+Take out 61 from the buffer at 2.
+Take out 107 from the buffer at 3.
+Put 83 product into buffer at 0.
+Put 188 product into buffer at 1.
+Take out 83 from the buffer at 0.
+Put 134 product into buffer at 2.
+Take out 188 from the buffer at 1.
+Put 139 product into buffer at 3.
+Take out 134 from the buffer at 2.
+Put 75 product into buffer at 0.
+Take out 139 from the buffer at 3.
+Put 93 product into buffer at 1.
+Take out 75 from the buffer at 0.
+Put 50 product into buffer at 2.
+Put 18 product into buffer at 3.
+Take out 93 from the buffer at 1.
+Take out 50 from the buffer at 2.
+Put 27 product into buffer at 0.
+Put 89 product into buffer at 1.
+Take out 18 from the buffer at 3.
+Put 153 product into buffer at 2.
+Take out 27 from the buffer at 0.
+Put 182 product into buffer at 3.
+Put 121 product into buffer at 0.
+Take out 89 from the buffer at 1.
+Take out 153 from the buffer at 2.
+Take out 182 from the buffer at 3.
+Put 28 product into buffer at 1.
+Put 199 product into buffer at 2.
+Put 147 product into buffer at 3.
+Take out 121 from the buffer at 0.
+Put 184 product into buffer at 0.
+Take out 28 from the buffer at 1.
+Take out 199 from the buffer at 2.
+Put 61 product into buffer at 1.
+Take out 147 from the buffer at 3.
+Take out 184 from the buffer at 0.
+Put 26 product into buffer at 2.
+Take out 61 from the buffer at 1.
+Put 132 product into buffer at 3.
+Take out 26 from the buffer at 2.
+Take out 132 from the buffer at 3.
+Put 141 product into buffer at 0.
+Take out 141 from the buffer at 0.
+Put 44 product into buffer at 1.
+Put 143 product into buffer at 2.
+Put 19 product into buffer at 3.
+Take out 44 from the buffer at 1.
+Put 69 product into buffer at 0.
+Take out 143 from the buffer at 2.
+Put 188 product into buffer at 1.
+Take out 19 from the buffer at 3.
+Put 175 product into buffer at 2.
+Put 91 product into buffer at 3.
+Take out 69 from the buffer at 0.
+Take out 188 from the buffer at 1.
+Take out 175 from the buffer at 2.
+Take out 91 from the buffer at 3.
+Put 47 product into buffer at 0.
+Take out 47 from the buffer at 0.
+Put 83 product into buffer at 1.
+Put 157 product into buffer at 2.
+Put 28 product into buffer at 3.
+Put 133 product into buffer at 0.
+Take out 83 from the buffer at 1.
+Put 107 product into buffer at 1.
+Take out 157 from the buffer at 2.
+Put 120 product into buffer at 2.
+Take out 28 from the buffer at 3.
+Put 72 product into buffer at 3.
+Take out 133 from the buffer at 0.
+Put 126 product into buffer at 0.
+Take out 107 from the buffer at 1.
+Take out 120 from the buffer at 2.
+Take out 72 from the buffer at 3.
+Put 200 product into buffer at 1.
+Take out 126 from the buffer at 0.
+Put 22 product into buffer at 2.
+Put 50 product into buffer at 3.
+Put 82 product into buffer at 0.
+Take out 200 from the buffer at 1.
+Put 37 product into buffer at 1.
+Take out 22 from the buffer at 2.
+Put 153 product into buffer at 2.
+Take out 50 from the buffer at 3.
+Take out 82 from the buffer at 0.
+Put 151 product into buffer at 3.
+Take out 37 from the buffer at 1.
+Put 45 product into buffer at 0.
+Take out 153 from the buffer at 2.
+Take out 151 from the buffer at 3.
+Put 74 product into buffer at 1.
+Take out 45 from the buffer at 0.
+Put 74 product into buffer at 2.
+Put 20 product into buffer at 3.
+Take out 74 from the buffer at 1.
+Put 33 product into buffer at 0.
+Take out 74 from the buffer at 2.
+Put 93 product into buffer at 1.
+Take out 20 from the buffer at 3.
+Put 129 product into buffer at 2.
+Take out 33 from the buffer at 0.
+Take out 93 from the buffer at 1.
+Put 143 product into buffer at 3.
+Put 55 product into buffer at 0.
+Take out 129 from the buffer at 2.
+Take out 143 from the buffer at 3.
+Put 8 product into buffer at 1.
+Put 109 product into buffer at 2.
+Take out 55 from the buffer at 0.
+Take out 8 from the buffer at 1.
+Take out 109 from the buffer at 2.
+Put 73 product into buffer at 3.
+Put 146 product into buffer at 0.
+Take out 73 from the buffer at 3.
+Put 186 product into buffer at 1.
+Take out 146 from the buffer at 0.
+Take out 186 from the buffer at 1.
+Put 6 product into buffer at 2.
+Take out 6 from the buffer at 2.
+Put 39 product into buffer at 3.
+Take out 39 from the buffer at 3.
+Put 130 product into buffer at 0.
+Take out 130 from the buffer at 0.
+Put 190 product into buffer at 1.
+Take out 190 from the buffer at 1.
+Put 60 product into buffer at 2.
+Take out 60 from the buffer at 2.
+Put 31 product into buffer at 3.
+Take out 31 from the buffer at 3.
+Put 30 product into buffer at 0.
+Take out 30 from the buffer at 0.
+Put 40 product into buffer at 1.
+Take out 40 from the buffer at 1.
+Put 101 product into buffer at 2.
+Put 110 product into buffer at 3.
+Take out 101 from the buffer at 2.
+Put 51 product into buffer at 0.
+Put 158 product into buffer at 1.
+Take out 110 from the buffer at 3.
+Put 35 product into buffer at 2.
+Put 21 product into buffer at 3.
+Take out 51 from the buffer at 0.
+Put 110 product into buffer at 0.
+Take out 158 from the buffer at 1.
+Put 58 product into buffer at 1.
+Take out 35 from the buffer at 2.
+Take out 21 from the buffer at 3.
+Take out 110 from the buffer at 0.
+Put 22 product into buffer at 2.
+Take out 58 from the buffer at 1.
+Put 189 product into buffer at 3.
+Take out 22 from the buffer at 2.
+Take out 189 from the buffer at 3.
+Put 61 product into buffer at 0.
+Put 182 product into buffer at 1.
+Take out 61 from the buffer at 0.
+Put 131 product into buffer at 2.
+Take out 182 from the buffer at 1.
+Put 130 product into buffer at 3.
+Take out 131 from the buffer at 2.
+Take out 130 from the buffer at 3.
+Put 30 product into buffer at 0.
+Take out 30 from the buffer at 0.
+Put 190 product into buffer at 1.
+Put 158 product into buffer at 2.
+Take out 190 from the buffer at 1.
+Put 182 product into buffer at 3.
+Take out 158 from the buffer at 2.
+Put 102 product into buffer at 0.
+Take out 182 from the buffer at 3.
+Take out 102 from the buffer at 0.
+Put 102 product into buffer at 1.
+Put 15 product into buffer at 2.
+Take out 102 from the buffer at 1.
+Take out 15 from the buffer at 2.
+Put 190 product into buffer at 3.
+Put 136 product into buffer at 0.
+Take out 190 from the buffer at 3.
+Take out 136 from the buffer at 0.
+Put 67 product into buffer at 1.
+Take out 67 from the buffer at 1.
+Put 92 product into buffer at 2.
+Put 162 product into buffer at 3.
+Take out 92 from the buffer at 2.
+Take out 162 from the buffer at 3.
+Put 22 product into buffer at 0.
+Put 155 product into buffer at 1.
+Take out 22 from the buffer at 0.
+Put 89 product into buffer at 2.
+Take out 155 from the buffer at 1.
+Put 169 product into buffer at 3.
+Put 113 product into buffer at 0.
+Take out 89 from the buffer at 2.
+Put 24 product into buffer at 1.
+Put 146 product into buffer at 2.
+Take out 169 from the buffer at 3.
+Put 67 product into buffer at 3.
+Take out 113 from the buffer at 0.
+Put 94 product into buffer at 0.
+Take out 24 from the buffer at 1.
+Put 9 product into buffer at 1.
+Take out 146 from the buffer at 2.
+Take out 67 from the buffer at 3.
+Put 24 product into buffer at 2.
+Put 148 product into buffer at 3.
+Take out 94 from the buffer at 0.
+Take out 9 from the buffer at 1.
+Put 123 product into buffer at 0.
+Put 18 product into buffer at 1.
+Take out 24 from the buffer at 2.
+Put 169 product into buffer at 2.
+Take out 148 from the buffer at 3.
+Take out 123 from the buffer at 0.
+Take out 18 from the buffer at 1.
+Put 181 product into buffer at 3.
+Take out 169 from the buffer at 2.
+Take out 181 from the buffer at 3.
+Put 30 product into buffer at 0.
+Take out 30 from the buffer at 0.
+Put 55 product into buffer at 1.
+Take out 55 from the buffer at 1.
+Put 112 product into buffer at 2.
+Take out 112 from the buffer at 2.
+Put 144 product into buffer at 3.
+Take out 144 from the buffer at 3.
+Put 147 product into buffer at 0.
+Take out 147 from the buffer at 0.
+Put 98 product into buffer at 1.
+Take out 98 from the buffer at 1.
+Put 170 product into buffer at 2.
+Take out 170 from the buffer at 2.
+Put 9 product into buffer at 3.
+Take out 9 from the buffer at 3.
+Put 198 product into buffer at 0.
+Take out 198 from the buffer at 0.
+Put 105 product into buffer at 1.
+Take out 105 from the buffer at 1.
+Put 67 product into buffer at 2.
+Take out 67 from the buffer at 2.
+Put 67 product into buffer at 3.
+Take out 67 from the buffer at 3.
+Put 185 product into buffer at 0.
+Put 137 product into buffer at 1.
+Put 138 product into buffer at 2.
+Take out 185 from the buffer at 0.
+Put 32 product into buffer at 3.
+Take out 137 from the buffer at 1.
+Put 95 product into buffer at 0.
+Take out 138 from the buffer at 2.
+Put 159 product into buffer at 1.
+Take out 32 from the buffer at 3.
+Put 191 product into buffer at 2.
+Take out 95 from the buffer at 0.
+Put 131 product into buffer at 3.
+Put 77 product into buffer at 0.
+Take out 159 from the buffer at 1.
+Put 63 product into buffer at 1.
+Take out 191 from the buffer at 2.
+Put 68 product into buffer at 2.
+Take out 131 from the buffer at 3.
+Put 32 product into buffer at 3.
+Take out 77 from the buffer at 0.
+Put 137 product into buffer at 0.
+Take out 63 from the buffer at 1.
+Put 24 product into buffer at 1.
+Take out 68 from the buffer at 2.
+Take out 32 from the buffer at 3.
+Take out 137 from the buffer at 0.
+Put 14 product into buffer at 2.
+Take out 24 from the buffer at 1.
+Put 90 product into buffer at 3.
+Take out 14 from the buffer at 2.
+Take out 90 from the buffer at 3.
+Put 136 product into buffer at 0.
+Put 141 product into buffer at 1.
+Take out 136 from the buffer at 0.
+Take out 141 from the buffer at 1.
+Put 195 product into buffer at 2.
+Take out 195 from the buffer at 2.
+Put 169 product into buffer at 3.
+Take out 169 from the buffer at 3.
+Put 15 product into buffer at 0.
+Take out 15 from the buffer at 0.
+Put 174 product into buffer at 1.
+Put 103 product into buffer at 2.
+Take out 174 from the buffer at 1.
+Take out 103 from the buffer at 2.
+Put 96 product into buffer at 3.
+Take out 96 from the buffer at 3.
+Put 174 product into buffer at 0.
+Put 89 product into buffer at 1.
+Take out 174 from the buffer at 0.
+Put 80 product into buffer at 2.
+Take out 89 from the buffer at 1.
+Put 145 product into buffer at 3.
+Take out 80 from the buffer at 2.
+Take out 145 from the buffer at 3.
+Put 93 product into buffer at 0.
+Take out 93 from the buffer at 0.
+Put 183 product into buffer at 1.
+Take out 183 from the buffer at 1.
+Put 95 product into buffer at 2.
+Take out 95 from the buffer at 2.
+Put 155 product into buffer at 3.
+Take out 155 from the buffer at 3.
+Put 142 product into buffer at 0.
+Put 62 product into buffer at 1.
+Take out 142 from the buffer at 0.
+Put 7 product into buffer at 2.
+Take out 62 from the buffer at 1.
+Take out 7 from the buffer at 2.
+Put 148 product into buffer at 3.
+Take out 148 from the buffer at 3.
+Put 85 product into buffer at 0.
+Put 140 product into buffer at 1.
+Take out 85 from the buffer at 0.
+Put 56 product into buffer at 2.
+Take out 140 from the buffer at 1.
+Put 134 product into buffer at 3.
+Take out 56 from the buffer at 2.
+Put 83 product into buffer at 0.
+Put 190 product into buffer at 1.
+Take out 134 from the buffer at 3.
+Put 148 product into buffer at 2.
+Take out 83 from the buffer at 0.
+Put 86 product into buffer at 3.
+Take out 190 from the buffer at 1.
+Put 127 product into buffer at 0.
+Take out 148 from the buffer at 2.
+Put 196 product into buffer at 1.
+Put 178 product into buffer at 2.
+Take out 86 from the buffer at 3.
+Put 90 product into buffer at 3.
+Take out 127 from the buffer at 0.
+Put 44 product into buffer at 0.
+Take out 196 from the buffer at 1.
+Put 161 product into buffer at 1.
+Take out 178 from the buffer at 2.
+Put 176 product into buffer at 2.
+Take out 90 from the buffer at 3.
+Put 146 product into buffer at 3.
+Take out 44 from the buffer at 0.
+Put 52 product into buffer at 0.
+Take out 161 from the buffer at 1.
+Put 31 product into buffer at 1.
+Take out 176 from the buffer at 2.
+Put 168 product into buffer at 2.
+Take out 146 from the buffer at 3.
+Take out 52 from the buffer at 0.
+Take out 31 from the buffer at 1.
+Put 166 product into buffer at 3.
+Take out 168 from the buffer at 2.
+Put 28 product into buffer at 0.
+Take out 166 from the buffer at 3.
+Put 55 product into buffer at 1.
+Take out 28 from the buffer at 0.
+Put 130 product into buffer at 2.
+Put 108 product into buffer at 3.
+Take out 55 from the buffer at 1.
+Put 171 product into buffer at 0.
+Take out 130 from the buffer at 2.
+Put 124 product into buffer at 1.
+Put 15 product into buffer at 2.
+Take out 108 from the buffer at 3.
+Put 62 product into buffer at 3.
+Take out 171 from the buffer at 0.
+Put 144 product into buffer at 0.
+Take out 124 from the buffer at 1.
+Take out 15 from the buffer at 2.
+Put 103 product into buffer at 1.
+Take out 62 from the buffer at 3.
+Take out 144 from the buffer at 0.
+Put 101 product into buffer at 2.
+Take out 103 from the buffer at 1.
+Put 147 product into buffer at 3.
+Take out 101 from the buffer at 2.
+Take out 147 from the buffer at 3.
+Put 118 product into buffer at 0.
+Take out 118 from the buffer at 0.
+Put 140 product into buffer at 1.
+Put 32 product into buffer at 2.
+Take out 140 from the buffer at 1.
+Put 54 product into buffer at 3.
+Put 3 product into buffer at 0.
+Take out 32 from the buffer at 2.
+Take out 54 from the buffer at 3.
+Put 157 product into buffer at 1.
+Put 121 product into buffer at 2.
+Put 182 product into buffer at 3.
+Take out 3 from the buffer at 0.
+Put 72 product into buffer at 0.
+Take out 157 from the buffer at 1.
+Take out 121 from the buffer at 2.
+Put 5 product into buffer at 1.
+Take out 182 from the buffer at 3.
+Put 170 product into buffer at 2.
+Put 195 product into buffer at 3.
+Take out 72 from the buffer at 0.
+Put 27 product into buffer at 0.
+Take out 5 from the buffer at 1.
+Put 86 product into buffer at 1.
+Take out 170 from the buffer at 2.
+Take out 195 from the buffer at 3.
+Put 149 product into buffer at 2.
+Take out 27 from the buffer at 0.
+Put 160 product into buffer at 3.
+Take out 86 from the buffer at 1.
+Put 60 product into buffer at 0.
+Take out 149 from the buffer at 2.
+Take out 160 from the buffer at 3.
+Take out 60 from the buffer at 0.
+Put 19 product into buffer at 1.
+Take out 19 from the buffer at 1.
+Put 181 product into buffer at 2.
+Take out 181 from the buffer at 2.
+Put 109 product into buffer at 3.
+Take out 109 from the buffer at 3.
+Put 123 product into buffer at 0.
+Take out 123 from the buffer at 0.
+Put 65 product into buffer at 1.
+Put 28 product into buffer at 2.
+Take out 65 from the buffer at 1.
+Take out 28 from the buffer at 2.
+Put 31 product into buffer at 3.
+Take out 31 from the buffer at 3.
+Put 85 product into buffer at 0.
+Take out 85 from the buffer at 0.
+Put 198 product into buffer at 1.
+Take out 198 from the buffer at 1.
+Put 46 product into buffer at 2.
+Take out 46 from the buffer at 2.
+Put 173 product into buffer at 3.
+Put 84 product into buffer at 0.
+Take out 173 from the buffer at 3.
+Put 161 product into buffer at 1.
+Put 158 product into buffer at 2.
+Take out 84 from the buffer at 0.
+Put 105 product into buffer at 3.
+Take out 161 from the buffer at 1.
+Put 14 product into buffer at 0.
+Put 59 product into buffer at 1.
+Take out 158 from the buffer at 2.
+Take out 105 from the buffer at 3.
+Put 17 product into buffer at 2.
+Take out 14 from the buffer at 0.
+Put 127 product into buffer at 3.
+Put 85 product into buffer at 0.
+Take out 59 from the buffer at 1.
+Take out 17 from the buffer at 2.
+Take out 127 from the buffer at 3.
+Put 77 product into buffer at 1.
+Put 111 product into buffer at 2.
+Take out 85 from the buffer at 0.
+Take out 77 from the buffer at 1.
+Put 188 product into buffer at 3.
+Take out 111 from the buffer at 2.
+Put 158 product into buffer at 0.
+Take out 188 from the buffer at 3.
+Put 36 product into buffer at 1.
+Put 94 product into buffer at 2.
+Take out 158 from the buffer at 0.
+Put 99 product into buffer at 3.
+Take out 36 from the buffer at 1.
+Put 160 product into buffer at 0.
+Take out 94 from the buffer at 2.
+Take out 99 from the buffer at 3.
+Take out 160 from the buffer at 0.
+Put 132 product into buffer at 1.
+Take out 132 from the buffer at 1.
+Put 128 product into buffer at 2.
+Take out 128 from the buffer at 2.
+Put 99 product into buffer at 3.
+Take out 99 from the buffer at 3.
+Put 63 product into buffer at 0.
+Take out 63 from the buffer at 0.
+Put 81 product into buffer at 1.
+Put 17 product into buffer at 2.
+Take out 81 from the buffer at 1.
+Take out 17 from the buffer at 2.
+Put 113 product into buffer at 3.
+Take out 113 from the buffer at 3.
+Put 122 product into buffer at 0.
+Take out 122 from the buffer at 0.
+Put 42 product into buffer at 1.
+Put 175 product into buffer at 2.
+Put 30 product into buffer at 3.
+Put 101 product into buffer at 0.
+Take out 42 from the buffer at 1.
+Take out 175 from the buffer at 2.
+Put 150 product into buffer at 1.
+Take out 30 from the buffer at 3.
+Put 110 product into buffer at 2.
+Take out 101 from the buffer at 0.
+Take out 150 from the buffer at 1.
+Put 36 product into buffer at 3.
+Take out 110 from the buffer at 2.
+Put 11 product into buffer at 0.
+Take out 36 from the buffer at 3.
+Take out 11 from the buffer at 0.
+Put 163 product into buffer at 1.
+Put 133 product into buffer at 2.
+Take out 163 from the buffer at 1.
+Take out 133 from the buffer at 2.
+Put 179 product into buffer at 3.
+Take out 179 from the buffer at 3.
+Put 119 product into buffer at 0.
+Put 160 product into buffer at 1.
+Take out 119 from the buffer at 0.
+Put 138 product into buffer at 2.
+Take out 160 from the buffer at 1.
+Put 186 product into buffer at 3.
+Take out 138 from the buffer at 2.
+Put 102 product into buffer at 0.
+Put 3 product into buffer at 1.
+Take out 186 from the buffer at 3.
+Take out 102 from the buffer at 0.
+Put 118 product into buffer at 2.
+Take out 3 from the buffer at 1.
+Put 68 product into buffer at 3.
+Take out 118 from the buffer at 2.
+Put 112 product into buffer at 0.
+Take out 68 from the buffer at 3.
+Put 43 product into buffer at 1.
+Take out 112 from the buffer at 0.
+Put 49 product into buffer at 2.
+Take out 43 from the buffer at 1.
+Take out 49 from the buffer at 2.
+Put 62 product into buffer at 3.
+Take out 62 from the buffer at 3.
+Put 187 product into buffer at 0.
+Put 113 product into buffer at 1.
+Take out 187 from the buffer at 0.
+Put 52 product into buffer at 2.
+Take out 113 from the buffer at 1.
+Take out 52 from the buffer at 2.
+Put 118 product into buffer at 3.
+Take out 118 from the buffer at 3.
+Put 146 product into buffer at 0.
+Take out 146 from the buffer at 0.
+Put 169 product into buffer at 1.
+Take out 169 from the buffer at 1.
+Put 35 product into buffer at 2.
+Take out 35 from the buffer at 2.
+Put 39 product into buffer at 3.
+Put 4 product into buffer at 0.
+Take out 39 from the buffer at 3.
+Put 56 product into buffer at 1.
+Put 179 product into buffer at 2.
+Put 93 product into buffer at 3.
+Take out 4 from the buffer at 0.
+Put 157 product into buffer at 0.
+Take out 56 from the buffer at 1.
+Put 168 product into buffer at 1.
+Take out 179 from the buffer at 2.
+Put 10 product into buffer at 2.
+Take out 93 from the buffer at 3.
+Put 93 product into buffer at 3.
+Take out 157 from the buffer at 0.
+Put 178 product into buffer at 0.
+Take out 168 from the buffer at 1.
+Take out 10 from the buffer at 2.
+Put 194 product into buffer at 1.
+Take out 93 from the buffer at 3.
+Put 165 product into buffer at 2.
+Put 143 product into buffer at 3.
+Take out 178 from the buffer at 0.
+Put 38 product into buffer at 0.
+Take out 194 from the buffer at 1.
+Put 188 product into buffer at 1.
+Take out 165 from the buffer at 2.
+Put 24 product into buffer at 2.
+Take out 143 from the buffer at 3.
+Put 200 product into buffer at 3.
+Take out 38 from the buffer at 0.
+Put 32 product into buffer at 0.
+Take out 188 from the buffer at 1.
+Put 62 product into buffer at 1.
+Take out 24 from the buffer at 2.
+Put 115 product into buffer at 2.
+Take out 200 from the buffer at 3.
+Take out 32 from the buffer at 0.
+Put 123 product into buffer at 3.
+Take out 62 from the buffer at 1.
+Put 187 product into buffer at 0.
+Put 95 product into buffer at 1.
+Take out 115 from the buffer at 2.
+Put 27 product into buffer at 2.
+Take out 123 from the buffer at 3.
+Put 3 product into buffer at 3.
+Take out 187 from the buffer at 0.
+Put 28 product into buffer at 0.
+Take out 95 from the buffer at 1.
+Put 162 product into buffer at 1.
+Take out 27 from the buffer at 2.
+Put 53 product into buffer at 2.
+Take out 3 from the buffer at 3.
+Put 113 product into buffer at 3.
+Take out 28 from the buffer at 0.
+Put 196 product into buffer at 0.
+Take out 162 from the buffer at 1.
+Put 188 product into buffer at 1.
+Take out 53 from the buffer at 2.
+Put 113 product into buffer at 2.
+Take out 113 from the buffer at 3.
+Take out 196 from the buffer at 0.
+Put 46 product into buffer at 3.
+Take out 188 from the buffer at 1.
+Put 118 product into buffer at 0.
+Put 171 product into buffer at 1.
+Take out 113 from the buffer at 2.
+Take out 46 from the buffer at 3.
+Put 33 product into buffer at 2.
+Put 93 product into buffer at 3.
+Take out 118 from the buffer at 0.
+Put 133 product into buffer at 0.
+Take out 171 from the buffer at 1.
+Put 50 product into buffer at 1.
+Take out 33 from the buffer at 2.
+Put 65 product into buffer at 2.
+Take out 93 from the buffer at 3.
+Put 155 product into buffer at 3.
+Take out 133 from the buffer at 0.
+Put 121 product into buffer at 0.
+Take out 50 from the buffer at 1.
+Put 86 product into buffer at 1.
+Take out 65 from the buffer at 2.
+Put 96 product into buffer at 2.
+Take out 155 from the buffer at 3.
+Put 184 product into buffer at 3.
+Take out 121 from the buffer at 0.
+Put 132 product into buffer at 0.
+Take out 86 from the buffer at 1.
+Put 23 product into buffer at 1.
+Take out 96 from the buffer at 2.
+Put 144 product into buffer at 2.
+Take out 184 from the buffer at 3.
+Put 127 product into buffer at 3.
+Take out 132 from the buffer at 0.
+Put 19 product into buffer at 0.
+Take out 23 from the buffer at 1.
+Put 190 product into buffer at 1.
+Take out 144 from the buffer at 2.
+Put 197 product into buffer at 2.
+Take out 127 from the buffer at 3.
+Put 7 product into buffer at 3.
+Take out 19 from the buffer at 0.
+Put 128 product into buffer at 0.
+Take out 190 from the buffer at 1.
+Put 39 product into buffer at 1.
+Take out 197 from the buffer at 2.
+Put 3 product into buffer at 2.
+Take out 7 from the buffer at 3.
+Put 70 product into buffer at 3.
+Take out 128 from the buffer at 0.
+Put 200 product into buffer at 0.
+Take out 39 from the buffer at 1.
+Put 50 product into buffer at 1.
+Take out 3 from the buffer at 2.
+Put 73 product into buffer at 2.
+Take out 70 from the buffer at 3.
+Take out 200 from the buffer at 0.
+Put 131 product into buffer at 3.
+Put 49 product into buffer at 0.
+Take out 50 from the buffer at 1.
+Put 73 product into buffer at 1.
+Take out 73 from the buffer at 2.
+Put 70 product into buffer at 2.
+Take out 131 from the buffer at 3.
+Take out 49 from the buffer at 0.
+Put 86 product into buffer at 3.
+Put 159 product into buffer at 0.
+Take out 73 from the buffer at 1.
+Put 60 product into buffer at 1.
+Take out 70 from the buffer at 2.
+Take out 86 from the buffer at 3.
+Put 101 product into buffer at 2.
+Take out 159 from the buffer at 0.
+Put 137 product into buffer at 3.
+Take out 60 from the buffer at 1.
+Put 128 product into buffer at 0.
+Put 94 product into buffer at 1.
+Take out 101 from the buffer at 2.
+Take out 137 from the buffer at 3.
+Put 87 product into buffer at 2.
+Take out 128 from the buffer at 0.
+Put 182 product into buffer at 3.
+Take out 94 from the buffer at 1.
+Take out 87 from the buffer at 2.
+Put 66 product into buffer at 0.
+Take out 182 from the buffer at 3.
+Put 108 product into buffer at 1.
+Put 88 product into buffer at 2.
+Put 51 product into buffer at 3.
+Take out 66 from the buffer at 0.
+Take out 108 from the buffer at 1.
+Take out 88 from the buffer at 2.
+Put 146 product into buffer at 0.
+Take out 51 from the buffer at 3.
+Put 199 product into buffer at 1.
+Take out 146 from the buffer at 0.
+Put 192 product into buffer at 2.
+Take out 199 from the buffer at 1.
+Put 148 product into buffer at 3.
+Take out 192 from the buffer at 2.
+Take out 148 from the buffer at 3.
+Put 164 product into buffer at 0.
+Take out 164 from the buffer at 0.
+Put 107 product into buffer at 1.
+Take out 107 from the buffer at 1.
+Put 154 product into buffer at 2.
+Put 56 product into buffer at 3.
+Take out 154 from the buffer at 2.
+Put 26 product into buffer at 0.
+Take out 56 from the buffer at 3.
+Take out 26 from the buffer at 0.
+Put 74 product into buffer at 1.
+Take out 74 from the buffer at 1.
+Put 192 product into buffer at 2.
+Take out 192 from the buffer at 2.
+Put 140 product into buffer at 3.
+Put 72 product into buffer at 0.
+Take out 140 from the buffer at 3.
+Put 121 product into buffer at 1.
+Take out 72 from the buffer at 0.
+Put 177 product into buffer at 2.
+Take out 121 from the buffer at 1.
+Take out 177 from the buffer at 2.
+Put 200 product into buffer at 3.
+Take out 200 from the buffer at 3.
+Put 130 product into buffer at 0.
+Take out 130 from the buffer at 0.
+Put 14 product into buffer at 1.
+Take out 14 from the buffer at 1.
+Put 83 product into buffer at 2.
+Take out 83 from the buffer at 2.
+Put 10 product into buffer at 3.
+Put 174 product into buffer at 0.
+Put 113 product into buffer at 1.
+Take out 10 from the buffer at 3.
+Take out 174 from the buffer at 0.
+Put 181 product into buffer at 2.
+Take out 113 from the buffer at 1.
+Put 95 product into buffer at 3.
+Put 149 product into buffer at 0.
+Take out 181 from the buffer at 2.
+Put 118 product into buffer at 1.
+Take out 95 from the buffer at 3.
+Take out 149 from the buffer at 0.
+Put 151 product into buffer at 2.
+Take out 118 from the buffer at 1.
+Put 180 product into buffer at 3.
+Put 97 product into buffer at 0.
+Take out 151 from the buffer at 2.
+Put 64 product into buffer at 1.
+Take out 180 from the buffer at 3.
+Take out 97 from the buffer at 0.
+Take out 64 from the buffer at 1.
+Put 51 product into buffer at 2.
+Take out 51 from the buffer at 2.
+Put 164 product into buffer at 3.
+Take out 164 from the buffer at 3.
+Put 191 product into buffer at 0.
+Put 114 product into buffer at 1.
+Take out 191 from the buffer at 0.
+Put 118 product into buffer at 2.
+Put 198 product into buffer at 3.
+Take out 114 from the buffer at 1.
+Put 75 product into buffer at 0.
+Put 157 product into buffer at 1.
+Take out 118 from the buffer at 2.
+Put 153 product into buffer at 2.
+Take out 198 from the buffer at 3.
+Put 117 product into buffer at 3.
+Take out 75 from the buffer at 0.
+Put 112 product into buffer at 0.
+Take out 157 from the buffer at 1.
+Take out 153 from the buffer at 2.
+Put 145 product into buffer at 1.
+Take out 117 from the buffer at 3.
+Put 35 product into buffer at 2.
+Put 84 product into buffer at 3.
+Take out 112 from the buffer at 0.
+Put 152 product into buffer at 0.
+Take out 145 from the buffer at 1.
+Put 81 product into buffer at 1.
+Take out 35 from the buffer at 2.
+Put 200 product into buffer at 2.
+Take out 84 from the buffer at 3.
+Put 24 product into buffer at 3.
+Take out 152 from the buffer at 0.
+Put 192 product into buffer at 0.
+Take out 81 from the buffer at 1.
+Put 149 product into buffer at 1.
+Take out 200 from the buffer at 2.
+Put 106 product into buffer at 2.
+Take out 24 from the buffer at 3.
+Put 125 product into buffer at 3.
+Take out 192 from the buffer at 0.
+Put 192 product into buffer at 0.
+Take out 149 from the buffer at 1.
+Put 136 product into buffer at 1.
+Take out 106 from the buffer at 2.
+Put 9 product into buffer at 2.
+Take out 125 from the buffer at 3.
+Put 122 product into buffer at 3.
+Take out 192 from the buffer at 0.
+Take out 136 from the buffer at 1.
+Put 26 product into buffer at 0.
+Take out 9 from the buffer at 2.
+Put 166 product into buffer at 1.
+Take out 122 from the buffer at 3.
+Take out 26 from the buffer at 0.
+Take out 166 from the buffer at 1.
+Put 106 product into buffer at 2.
+Take out 106 from the buffer at 2.
+Put 198 product into buffer at 3.
+Take out 198 from the buffer at 3.
+Put 197 product into buffer at 0.
+Take out 197 from the buffer at 0.
+Put 59 product into buffer at 1.
+Take out 59 from the buffer at 1.
+Put 49 product into buffer at 2.
+Put 165 product into buffer at 3.
+Put 8 product into buffer at 0.
+Take out 49 from the buffer at 2.
+Put 48 product into buffer at 1.
+Put 45 product into buffer at 2.
+Take out 165 from the buffer at 3.
+Put 170 product into buffer at 3.
+Take out 8 from the buffer at 0.
+Put 120 product into buffer at 0.
+Take out 48 from the buffer at 1.
+Put 134 product into buffer at 1.
+Take out 45 from the buffer at 2.
+Take out 170 from the buffer at 3.
+Take out 120 from the buffer at 0.
+Put 56 product into buffer at 2.
+Take out 134 from the buffer at 1.
+Take out 56 from the buffer at 2.
+Put 40 product into buffer at 3.
+Take out 40 from the buffer at 3.
+Put 142 product into buffer at 0.
+Take out 142 from the buffer at 0.
+Put 11 product into buffer at 1.
+Put 109 product into buffer at 2.
+Take out 11 from the buffer at 1.
+Put 102 product into buffer at 3.
+Take out 109 from the buffer at 2.
+Put 55 product into buffer at 0.
+Take out 102 from the buffer at 3.
+Put 90 product into buffer at 1.
+Take out 55 from the buffer at 0.
+Take out 90 from the buffer at 1.
+Put 48 product into buffer at 2.
+Take out 48 from the buffer at 2.
+Put 139 product into buffer at 3.
+Take out 139 from the buffer at 3.
+Put 153 product into buffer at 0.
+Take out 153 from the buffer at 0.
+Put 56 product into buffer at 1.
+Take out 56 from the buffer at 1.
+Put 172 product into buffer at 2.
+Take out 172 from the buffer at 2.
+Put 137 product into buffer at 3.
+Take out 137 from the buffer at 3.
+Put 176 product into buffer at 0.
+Put 128 product into buffer at 1.
+Take out 176 from the buffer at 0.
+Put 109 product into buffer at 2.
+Take out 128 from the buffer at 1.
+Put 149 product into buffer at 3.
+Take out 109 from the buffer at 2.
+Take out 149 from the buffer at 3.
+Put 99 product into buffer at 0.
+Take out 99 from the buffer at 0.
+Put 55 product into buffer at 1.
+Take out 55 from the buffer at 1.
+Put 197 product into buffer at 2.
+Take out 197 from the buffer at 2.
+Put 117 product into buffer at 3.
+Take out 117 from the buffer at 3.
+Put 58 product into buffer at 0.
+Put 65 product into buffer at 1.
+Take out 58 from the buffer at 0.
+Take out 65 from the buffer at 1.
+Put 24 product into buffer at 2.
+Put 10 product into buffer at 3.
+Take out 24 from the buffer at 2.
+Put 2 product into buffer at 0.
+Put 13 product into buffer at 1.
+Put 44 product into buffer at 2.
+Take out 10 from the buffer at 3.
+Take out 2 from the buffer at 0.
+Put 7 product into buffer at 3.
+Put 131 product into buffer at 0.
+Take out 13 from the buffer at 1.
+Put 164 product into buffer at 1.
+Take out 44 from the buffer at 2.
+Put 193 product into buffer at 2.
+Take out 7 from the buffer at 3.
+Put 191 product into buffer at 3.
+Take out 131 from the buffer at 0.
+Put 77 product into buffer at 0.
+Take out 164 from the buffer at 1.
+Put 55 product into buffer at 1.
+Take out 193 from the buffer at 2.
+Take out 191 from the buffer at 3.
+Put 153 product into buffer at 2.
+Take out 77 from the buffer at 0.
+Put 114 product into buffer at 3.
+Take out 55 from the buffer at 1.
+Put 10 product into buffer at 0.
+Take out 153 from the buffer at 2.
+Put 34 product into buffer at 1.
+Take out 114 from the buffer at 3.
+Put 129 product into buffer at 2.
+Take out 10 from the buffer at 0.
+Put 169 product into buffer at 3.
+Take out 34 from the buffer at 1.
+Put 102 product into buffer at 0.
+Put 164 product into buffer at 1.
+Take out 129 from the buffer at 2.
+Put 39 product into buffer at 2.
+Take out 169 from the buffer at 3.
+Take out 102 from the buffer at 0.
+Take out 164 from the buffer at 1.
+Put 66 product into buffer at 3.
+Take out 39 from the buffer at 2.
+Put 113 product into buffer at 0.
+Take out 66 from the buffer at 3.
+Put 200 product into buffer at 1.
+Take out 113 from the buffer at 0.
+Put 154 product into buffer at 2.
+Take out 200 from the buffer at 1.
+Put 93 product into buffer at 3.
+Take out 154 from the buffer at 2.
+Put 29 product into buffer at 0.
+Put 34 product into buffer at 1.
+Take out 93 from the buffer at 3.
+Put 74 product into buffer at 2.
+Put 187 product into buffer at 3.
+Take out 29 from the buffer at 0.
+Put 38 product into buffer at 0.
+Take out 34 from the buffer at 1.
+Take out 74 from the buffer at 2.
+Put 168 product into buffer at 1.
+Take out 187 from the buffer at 3.
+Take out 38 from the buffer at 0.
+Put 185 product into buffer at 2.
+Put 44 product into buffer at 3.
+Put 165 product into buffer at 0.
+Take out 168 from the buffer at 1.
+Put 146 product into buffer at 1.
+Take out 185 from the buffer at 2.
+Put 5 product into buffer at 2.
+Take out 44 from the buffer at 3.
+Put 30 product into buffer at 3.
+Take out 165 from the buffer at 0.
+Put 65 product into buffer at 0.
+Take out 146 from the buffer at 1.
+Put 105 product into buffer at 1.
+Take out 5 from the buffer at 2.
+Put 115 product into buffer at 2.
+Take out 30 from the buffer at 3.
+Put 188 product into buffer at 3.
+Take out 65 from the buffer at 0.
+Put 196 product into buffer at 0.
+Take out 105 from the buffer at 1.
+Put 200 product into buffer at 1.
+Take out 115 from the buffer at 2.
+Put 122 product into buffer at 2.
+Take out 188 from the buffer at 3.
+Take out 196 from the buffer at 0.
+Take out 200 from the buffer at 1.
+Put 177 product into buffer at 3.
+Put 178 product into buffer at 0.
+Take out 122 from the buffer at 2.
+Take out 177 from the buffer at 3.
+Take out 178 from the buffer at 0.
+Put 163 product into buffer at 1.
+Put 130 product into buffer at 2.
+Put 193 product into buffer at 3.
+Take out 163 from the buffer at 1.
+Take out 130 from the buffer at 2.
+Put 114 product into buffer at 0.
+Take out 193 from the buffer at 3.
+Take out 114 from the buffer at 0.
+Put 155 product into buffer at 1.
+Put 177 product into buffer at 2.
+Take out 155 from the buffer at 1.
+Take out 177 from the buffer at 2.
+Put 198 product into buffer at 3.
+Put 78 product into buffer at 0.
+Take out 198 from the buffer at 3.
+Put 59 product into buffer at 1.
+Take out 78 from the buffer at 0.
+Put 179 product into buffer at 2.
+Put 108 product into buffer at 3.
+Put 76 product into buffer at 0.
+Take out 59 from the buffer at 1.
+Put 125 product into buffer at 1.
+Take out 179 from the buffer at 2.
+Put 168 product into buffer at 2.
+Take out 108 from the buffer at 3.
+Put 86 product into buffer at 3.
+Take out 76 from the buffer at 0.
+Put 34 product into buffer at 0.
+Take out 125 from the buffer at 1.
+Put 59 product into buffer at 1.
+Take out 168 from the buffer at 2.
+Put 26 product into buffer at 2.
+Take out 86 from the buffer at 3.
+Put 95 product into buffer at 3.
+Take out 34 from the buffer at 0.
+Put 31 product into buffer at 0.
+Take out 59 from the buffer at 1.
+Put 182 product into buffer at 1.
+Take out 26 from the buffer at 2.
+Put 180 product into buffer at 2.
+Take out 95 from the buffer at 3.
+Put 194 product into buffer at 3.
+Take out 31 from the buffer at 0.
+Take out 182 from the buffer at 1.
+Put 93 product into buffer at 0.
+Take out 180 from the buffer at 2.
+Put 52 product into buffer at 1.
+Put 120 product into buffer at 2.
+Take out 194 from the buffer at 3.
+Put 34 product into buffer at 3.
+Take out 93 from the buffer at 0.
+Put 153 product into buffer at 0.
+Take out 52 from the buffer at 1.
+Take out 120 from the buffer at 2.
+Put 17 product into buffer at 1.
+Put 85 product into buffer at 2.
+Take out 34 from the buffer at 3.
+Take out 153 from the buffer at 0.
+Put 113 product into buffer at 3.
+Take out 17 from the buffer at 1.
+Put 37 product into buffer at 0.
+Take out 85 from the buffer at 2.
+Take out 113 from the buffer at 3.
+Put 55 product into buffer at 1.
+Take out 37 from the buffer at 0.
+Take out 55 from the buffer at 1.
+Put 106 product into buffer at 2.
+Put 159 product into buffer at 3.
+Put 1 product into buffer at 0.
+Take out 106 from the buffer at 2.
+Take out 159 from the buffer at 3.
+Put 192 product into buffer at 1.
+Put 103 product into buffer at 2.
+Take out 1 from the buffer at 0.
+Put 175 product into buffer at 3.
+Take out 192 from the buffer at 1.
+Take out 103 from the buffer at 2.
+Put 1 product into buffer at 0.
+Put 58 product into buffer at 1.
+Take out 175 from the buffer at 3.
+Put 53 product into buffer at 2.
+Put 90 product into buffer at 3.
+Take out 1 from the buffer at 0.
+Take out 58 from the buffer at 1.
+Take out 53 from the buffer at 2.
+Put 67 product into buffer at 0.
+Put 183 product into buffer at 1.
+Take out 90 from the buffer at 3.
+Put 174 product into buffer at 2.
+Take out 67 from the buffer at 0.
+Take out 183 from the buffer at 1.
+Put 155 product into buffer at 3.
+Take out 174 from the buffer at 2.
+Put 126 product into buffer at 0.
+Take out 155 from the buffer at 3.
+Put 105 product into buffer at 1.
+Take out 126 from the buffer at 0.
+Take out 105 from the buffer at 1.
+Put 119 product into buffer at 2.
+Take out 119 from the buffer at 2.
+Put 159 product into buffer at 3.
+Take out 159 from the buffer at 3.
+Put 79 product into buffer at 0.
+Take out 79 from the buffer at 0.
+Put 14 product into buffer at 1.
+Take out 14 from the buffer at 1.
+Put 37 product into buffer at 2.
+Put 89 product into buffer at 3.
+Take out 37 from the buffer at 2.
+Put 118 product into buffer at 0.
+Take out 89 from the buffer at 3.
+Put 87 product into buffer at 1.
+Put 92 product into buffer at 2.
+Take out 118 from the buffer at 0.
+Put 92 product into buffer at 3.
+Take out 87 from the buffer at 1.
+Put 87 product into buffer at 0.
+Put 24 product into buffer at 1.
+Take out 92 from the buffer at 2.
+Put 164 product into buffer at 2.
+Take out 92 from the buffer at 3.
+Take out 87 from the buffer at 0.
+Put 161 product into buffer at 3.
+Take out 24 from the buffer at 1.
+Put 80 product into buffer at 0.
+Put 146 product into buffer at 1.
+Take out 164 from the buffer at 2.
+Put 17 product into buffer at 2.
+Take out 161 from the buffer at 3.
+Take out 80 from the buffer at 0.
+Take out 146 from the buffer at 1.
+Put 175 product into buffer at 3.
+Put 23 product into buffer at 0.
+Take out 17 from the buffer at 2.
+Put 160 product into buffer at 1.
+Take out 175 from the buffer at 3.
+Take out 23 from the buffer at 0.
+Put 78 product into buffer at 2.
+Take out 160 from the buffer at 1.
+Put 61 product into buffer at 3.
+Take out 78 from the buffer at 2.
+Put 164 product into buffer at 0.
+Put 25 product into buffer at 1.
+Take out 61 from the buffer at 3.
+Put 113 product into buffer at 2.
+Take out 164 from the buffer at 0.
+Put 115 product into buffer at 3.
+Put 58 product into buffer at 0.
+Take out 25 from the buffer at 1.
+Take out 113 from the buffer at 2.
+Put 57 product into buffer at 1.
+Put 127 product into buffer at 2.
+Take out 115 from the buffer at 3.
+Put 190 product into buffer at 3.
+Take out 58 from the buffer at 0.
+Put 132 product into buffer at 0.
+Take out 57 from the buffer at 1.
+Put 48 product into buffer at 1.
+Take out 127 from the buffer at 2.
+Take out 190 from the buffer at 3.
+Put 129 product into buffer at 2.
+Take out 132 from the buffer at 0.
+Take out 48 from the buffer at 1.
+Put 110 product into buffer at 3.
+Put 86 product into buffer at 0.
+Take out 129 from the buffer at 2.
+Put 54 product into buffer at 1.
+Take out 110 from the buffer at 3.
+Take out 86 from the buffer at 0.
+Put 40 product into buffer at 2.
+Put 36 product into buffer at 3.
+Take out 54 from the buffer at 1.
+Put 116 product into buffer at 0.
+Put 64 product into buffer at 1.
+Take out 40 from the buffer at 2.
+Take out 36 from the buffer at 3.
+Put 129 product into buffer at 2.
+Put 95 product into buffer at 3.
+Take out 116 from the buffer at 0.
+Put 72 product into buffer at 0.
+Take out 64 from the buffer at 1.
+Put 64 product into buffer at 1.
+Take out 129 from the buffer at 2.
+Take out 95 from the buffer at 3.
+Put 158 product into buffer at 2.
+Put 1 product into buffer at 3.
+Take out 72 from the buffer at 0.
+Put 140 product into buffer at 0.
+Take out 64 from the buffer at 1.
+Put 12 product into buffer at 1.
+Take out 158 from the buffer at 2.
+Put 92 product into buffer at 2.
+Take out 1 from the buffer at 3.
+Put 30 product into buffer at 3.
+Take out 140 from the buffer at 0.
+Put 77 product into buffer at 0.
+Take out 12 from the buffer at 1.
+Put 112 product into buffer at 1.
+Take out 92 from the buffer at 2.
+Put 135 product into buffer at 2.
+Take out 30 from the buffer at 3.
+Put 111 product into buffer at 3.
+Take out 77 from the buffer at 0.
+Put 16 product into buffer at 0.
+Take out 112 from the buffer at 1.
+Put 158 product into buffer at 1.
+Take out 135 from the buffer at 2.
+Put 64 product into buffer at 2.
+Take out 111 from the buffer at 3.
+Put 8 product into buffer at 3.
+Take out 16 from the buffer at 0.
+Put 181 product into buffer at 0.
+Take out 158 from the buffer at 1.
+Take out 64 from the buffer at 2.
+Put 65 product into buffer at 1.
+Take out 8 from the buffer at 3.
+Put 185 product into buffer at 2.
+Take out 181 from the buffer at 0.
+Take out 65 from the buffer at 1.
+Take out 185 from the buffer at 2.
+Put 129 product into buffer at 3.
+Take out 129 from the buffer at 3.
+Put 19 product into buffer at 0.
+Take out 19 from the buffer at 0.
+Put 47 product into buffer at 1.
+Take out 47 from the buffer at 1.
+Put 4 product into buffer at 2.
+Take out 4 from the buffer at 2.
+Put 42 product into buffer at 3.
+Take out 42 from the buffer at 3.
+Put 21 product into buffer at 0.
+Take out 21 from the buffer at 0.
+Put 74 product into buffer at 1.
+Take out 74 from the buffer at 1.
+Put 17 product into buffer at 2.
+Take out 17 from the buffer at 2.
+Put 162 product into buffer at 3.
+Take out 162 from the buffer at 3.
+Put 91 product into buffer at 0.
+Take out 91 from the buffer at 0.
+Put 60 product into buffer at 1.
+Take out 60 from the buffer at 1.
+Put 24 product into buffer at 2.
+Take out 24 from the buffer at 2.
+Put 35 product into buffer at 3.
+Take out 35 from the buffer at 3.
+Put 46 product into buffer at 0.
+Put 191 product into buffer at 1.
+Take out 46 from the buffer at 0.
+Put 48 product into buffer at 2.
+Take out 191 from the buffer at 1.
+Put 69 product into buffer at 3.
+Put 124 product into buffer at 0.
+Take out 48 from the buffer at 2.
+Put 176 product into buffer at 1.
+Take out 69 from the buffer at 3.
+Take out 124 from the buffer at 0.
+Put 175 product into buffer at 2.
+Take out 176 from the buffer at 1.
+Take out 175 from the buffer at 2.
+Put 110 product into buffer at 3.
+Take out 110 from the buffer at 3.
+Put 147 product into buffer at 0.
+Take out 147 from the buffer at 0.
+Put 49 product into buffer at 1.
+Take out 49 from the buffer at 1.
+Put 173 product into buffer at 2.
+Take out 173 from the buffer at 2.
+Put 14 product into buffer at 3.
+Put 158 product into buffer at 0.
+Take out 14 from the buffer at 3.
+Put 23 product into buffer at 1.
+Take out 158 from the buffer at 0.
+Take out 23 from the buffer at 1.
+Put 40 product into buffer at 2.
+Put 146 product into buffer at 3.
+Take out 40 from the buffer at 2.
+Put 19 product into buffer at 0.
+Put 177 product into buffer at 1.
+Put 122 product into buffer at 2.
+Take out 146 from the buffer at 3.
+Take out 19 from the buffer at 0.
+Put 45 product into buffer at 3.
+Take out 177 from the buffer at 1.
+Take out 122 from the buffer at 2.
+Take out 45 from the buffer at 3.
+Put 36 product into buffer at 0.
+Take out 36 from the buffer at 0.
+Put 123 product into buffer at 1.
+Take out 123 from the buffer at 1.
+Put 120 product into buffer at 2.
+Take out 120 from the buffer at 2.
+Put 95 product into buffer at 3.
+Take out 95 from the buffer at 3.
+Put 106 product into buffer at 0.
+Take out 106 from the buffer at 0.
+Put 54 product into buffer at 1.
+Take out 54 from the buffer at 1.
+Put 165 product into buffer at 2.
+Put 19 product into buffer at 3.
+Take out 165 from the buffer at 2.
+Take out 19 from the buffer at 3.
+Put 151 product into buffer at 0.
+Take out 151 from the buffer at 0.
+Put 14 product into buffer at 1.
+Take out 14 from the buffer at 1.
+Put 106 product into buffer at 2.
+Take out 106 from the buffer at 2.
+Put 120 product into buffer at 3.
+Take out 120 from the buffer at 3.
+Put 128 product into buffer at 0.
+Put 154 product into buffer at 1.
+Take out 128 from the buffer at 0.
+Take out 154 from the buffer at 1.
+Put 123 product into buffer at 2.
+Take out 123 from the buffer at 2.
+Put 102 product into buffer at 3.
+Take out 102 from the buffer at 3.
+Put 49 product into buffer at 0.
+Take out 49 from the buffer at 0.
+Put 23 product into buffer at 1.
+Take out 23 from the buffer at 1.
+Put 55 product into buffer at 2.
+Take out 55 from the buffer at 2.
+Put 35 product into buffer at 3.
+Take out 35 from the buffer at 3.
+Put 193 product into buffer at 0.
+Take out 193 from the buffer at 0.
+Put 121 product into buffer at 1.
+Take out 121 from the buffer at 1.
+Put 113 product into buffer at 2.
+Take out 113 from the buffer at 2.
+Put 48 product into buffer at 3.
+Take out 48 from the buffer at 3.
+Put 43 product into buffer at 0.
+Put 195 product into buffer at 1.
+Take out 43 from the buffer at 0.
+Put 158 product into buffer at 2.
+Take out 195 from the buffer at 1.
+Put 119 product into buffer at 3.
+Put 21 product into buffer at 0.
+Put 190 product into buffer at 1.
+Take out 158 from the buffer at 2.
+Take out 119 from the buffer at 3.
+Put 87 product into buffer at 2.
+Put 117 product into buffer at 3.
+Take out 21 from the buffer at 0.
+Take out 190 from the buffer at 1.
+Put 69 product into buffer at 0.
+Take out 87 from the buffer at 2.
+Put 166 product into buffer at 1.
+Put 79 product into buffer at 2.
+Take out 117 from the buffer at 3.
+Put 198 product into buffer at 3.
+Take out 69 from the buffer at 0.
+Put 171 product into buffer at 0.
+Take out 166 from the buffer at 1.
+Put 167 product into buffer at 1.
+Take out 79 from the buffer at 2.
+Put 16 product into buffer at 2.
+Take out 198 from the buffer at 3.
+Put 157 product into buffer at 3.
+Take out 171 from the buffer at 0.
+Put 10 product into buffer at 0.
+Take out 167 from the buffer at 1.
+Put 136 product into buffer at 1.
+Take out 16 from the buffer at 2.
+Put 28 product into buffer at 2.
+Take out 157 from the buffer at 3.
+Put 77 product into buffer at 3.
+Take out 10 from the buffer at 0.
+Put 48 product into buffer at 0.
+Take out 136 from the buffer at 1.
+Put 144 product into buffer at 1.
+Take out 28 from the buffer at 2.
+Put 123 product into buffer at 2.
+Take out 77 from the buffer at 3.
+Put 196 product into buffer at 3.
+Take out 48 from the buffer at 0.
+Put 48 product into buffer at 0.
+Take out 144 from the buffer at 1.
+Put 42 product into buffer at 1.
+Take out 123 from the buffer at 2.
+Put 90 product into buffer at 2.
+Take out 196 from the buffer at 3.
+Put 14 product into buffer at 3.
+Take out 48 from the buffer at 0.
+Put 87 product into buffer at 0.
+Take out 42 from the buffer at 1.
+Put 99 product into buffer at 1.
+Take out 90 from the buffer at 2.
+Put 128 product into buffer at 2.
+Take out 14 from the buffer at 3.
+Put 65 product into buffer at 3.
+Take out 87 from the buffer at 0.
+Put 54 product into buffer at 0.
+Take out 99 from the buffer at 1.
+Put 167 product into buffer at 1.
+Take out 128 from the buffer at 2.
+Put 118 product into buffer at 2.
+Take out 65 from the buffer at 3.
+Take out 54 from the buffer at 0.
+Put 106 product into buffer at 3.
+Put 29 product into buffer at 0.
+Take out 167 from the buffer at 1.
+Put 46 product into buffer at 1.
+Take out 118 from the buffer at 2.
+Put 196 product into buffer at 2.
+Take out 106 from the buffer at 3.
+Put 83 product into buffer at 3.
+Take out 29 from the buffer at 0.
+Put 168 product into buffer at 0.
+Take out 46 from the buffer at 1.
+Put 86 product into buffer at 1.
+Take out 196 from the buffer at 2.
+Put 97 product into buffer at 2.
+Take out 83 from the buffer at 3.
+Put 25 product into buffer at 3.
+Take out 168 from the buffer at 0.
+Put 175 product into buffer at 0.
+Take out 86 from the buffer at 1.
+Put 186 product into buffer at 1.
+Take out 97 from the buffer at 2.
+Put 147 product into buffer at 2.
+Take out 25 from the buffer at 3.
+Put 156 product into buffer at 3.
+Take out 175 from the buffer at 0.
+Put 63 product into buffer at 0.
+Take out 186 from the buffer at 1.
+Take out 147 from the buffer at 2.
+Take out 156 from the buffer at 3.
+Put 15 product into buffer at 1.
+Put 115 product into buffer at 2.
+Take out 63 from the buffer at 0.
+Put 179 product into buffer at 3.
+Take out 15 from the buffer at 1.
+Put 42 product into buffer at 0.
+Take out 115 from the buffer at 2.
+Put 55 product into buffer at 1.
+Put 55 product into buffer at 2.
+Take out 179 from the buffer at 3.
+Take out 42 from the buffer at 0.
+Put 66 product into buffer at 3.
+Take out 55 from the buffer at 1.
+Take out 55 from the buffer at 2.
+Put 177 product into buffer at 0.
+Take out 66 from the buffer at 3.
+Put 200 product into buffer at 1.
+Put 55 product into buffer at 2.
+Take out 177 from the buffer at 0.
+Take out 200 from the buffer at 1.
+Put 185 product into buffer at 3.
+Take out 55 from the buffer at 2.
+Put 193 product into buffer at 0.
+Put 190 product into buffer at 1.
+Put 174 product into buffer at 2.
+Take out 185 from the buffer at 3.
+Put 169 product into buffer at 3.
+Take out 193 from the buffer at 0.
+Put 174 product into buffer at 0.
+Take out 190 from the buffer at 1.
+Put 129 product into buffer at 1.
+Take out 174 from the buffer at 2.
+Put 102 product into buffer at 2.
+Take out 169 from the buffer at 3.
+Put 164 product into buffer at 3.
+Take out 174 from the buffer at 0.
+Put 57 product into buffer at 0.
+Take out 129 from the buffer at 1.
+Take out 102 from the buffer at 2.
+Put 68 product into buffer at 1.
+Take out 164 from the buffer at 3.
+Put 23 product into buffer at 2.
+Put 100 product into buffer at 3.
+Take out 57 from the buffer at 0.
+Take out 68 from the buffer at 1.
+Take out 23 from the buffer at 2.
+Put 120 product into buffer at 0.
+Put 155 product into buffer at 1.
+Take out 100 from the buffer at 3.
+Put 164 product into buffer at 2.
+Take out 120 from the buffer at 0.
+Put 32 product into buffer at 3.
+Take out 155 from the buffer at 1.
+Put 62 product into buffer at 0.
+Put 52 product into buffer at 1.
+Take out 164 from the buffer at 2.
+Put 145 product into buffer at 2.
+Take out 32 from the buffer at 3.
+Put 26 product into buffer at 3.
+Take out 62 from the buffer at 0.
+Take out 52 from the buffer at 1.
+Put 100 product into buffer at 0.
+Take out 145 from the buffer at 2.
+Put 198 product into buffer at 1.
+Take out 26 from the buffer at 3.
+Put 47 product into buffer at 2.
+Take out 100 from the buffer at 0.
+Take out 198 from the buffer at 1.
+Put 68 product into buffer at 3.
+Take out 47 from the buffer at 2.
+Take out 68 from the buffer at 3.
+Put 158 product into buffer at 0.
+Put 145 product into buffer at 1.
+Put 122 product into buffer at 2.
+Take out 158 from the buffer at 0.
+Put 142 product into buffer at 3.
+Put 54 product into buffer at 0.
+Take out 145 from the buffer at 1.
+Take out 122 from the buffer at 2.
+Take out 142 from the buffer at 3.
+Put 112 product into buffer at 1.
+Put 110 product into buffer at 2.
+Put 182 product into buffer at 3.
+Take out 54 from the buffer at 0.
+Put 173 product into buffer at 0.
+Take out 112 from the buffer at 1.
+Put 53 product into buffer at 1.
+Take out 110 from the buffer at 2.
+Put 168 product into buffer at 2.
+Take out 182 from the buffer at 3.
+Put 60 product into buffer at 3.
+Take out 173 from the buffer at 0.
+Put 50 product into buffer at 0.
+Take out 53 from the buffer at 1.
+Put 29 product into buffer at 1.
+Take out 168 from the buffer at 2.
+Put 55 product into buffer at 2.
+Take out 60 from the buffer at 3.
+Put 119 product into buffer at 3.
+Take out 50 from the buffer at 0.
+Put 20 product into buffer at 0.
+Take out 29 from the buffer at 1.
+Put 200 product into buffer at 1.
+Take out 55 from the buffer at 2.
+Put 121 product into buffer at 2.
+Take out 119 from the buffer at 3.
+Put 45 product into buffer at 3.
+Take out 20 from the buffer at 0.
+Put 175 product into buffer at 0.
+Take out 200 from the buffer at 1.
+Put 111 product into buffer at 1.
+Take out 121 from the buffer at 2.
+Take out 45 from the buffer at 3.
+Take out 175 from the buffer at 0.
+Put 40 product into buffer at 2.
+Take out 111 from the buffer at 1.
+Put 125 product into buffer at 3.
+Put 138 product into buffer at 0.
+Take out 40 from the buffer at 2.
+Take out 125 from the buffer at 3.
+Put 176 product into buffer at 1.
+Put 162 product into buffer at 2.
+Take out 138 from the buffer at 0.
+Put 47 product into buffer at 3.
